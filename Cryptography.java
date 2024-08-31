@@ -1,6 +1,3 @@
-package in.ganeshsharma.EncryptionSystem;
-
-
 import java.nio.*;
 import java.nio.channels.*;
 import java.io.*;
